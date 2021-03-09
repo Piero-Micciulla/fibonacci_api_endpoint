@@ -1,0 +1,2 @@
+class Fibo < ApplicationRecord
+end
